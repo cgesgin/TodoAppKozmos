@@ -1,0 +1,17 @@
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\bin\Debug\net10.0\TodoAppKozmos.Service.deps.json
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\bin\Debug\net10.0\TodoAppKozmos.Service.dll
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\bin\Debug\net10.0\TodoAppKozmos.Service.pdb
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\bin\Debug\net10.0\TodoAppKozmos.Core.dll
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\bin\Debug\net10.0\TodoAppKozmos.Repository.dll
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\bin\Debug\net10.0\TodoAppKozmos.Repository.pdb
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\bin\Debug\net10.0\TodoAppKozmos.Core.pdb
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\obj\Debug\net10.0\TodoAppKozmos.Service.csproj.AssemblyReference.cache
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\obj\Debug\net10.0\TodoAppKozmos.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\obj\Debug\net10.0\TodoAppKozmos.Service.AssemblyInfoInputs.cache
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\obj\Debug\net10.0\TodoAppKozmos.Service.AssemblyInfo.cs
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\obj\Debug\net10.0\TodoAppKozmos.Service.csproj.CoreCompileInputs.cache
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\obj\Debug\net10.0\TodoAppK.E41501F6.Up2Date
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\obj\Debug\net10.0\TodoAppKozmos.Service.dll
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\obj\Debug\net10.0\refint\TodoAppKozmos.Service.dll
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\obj\Debug\net10.0\TodoAppKozmos.Service.pdb
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Service\obj\Debug\net10.0\ref\TodoAppKozmos.Service.dll

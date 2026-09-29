@@ -1,0 +1,166 @@
+﻿@model TodoAppKozmos.Core.Models.Todo
+
+@{
+ViewData["Title"] = "Todo Edit";
+}
+
+<div class="container mt-5">
+<div class="row justify-content-center">
+
+    <div class="col-md-7">
+
+        <div class="card shadow-sm">
+
+            <div class="card-header bg-warning">
+
+                <h4 class="mb-0">
+                    Todo Düzenle
+                </h4>
+
+            </div>
+
+            <div class="card-body">
+
+                <form asp-controller="Todo"
+                      asp-action="Edit"
+                      asp-route-id="@Model.Id"
+                      method="post">
+
+                    @Html.AntiForgeryToken()
+
+                    <!-- Id -->
+
+                    <input type="hidden"
+                           asp-for="Id" />
+
+                    <!-- CreatedDate -->
+
+                    <input type="hidden"
+                           asp-for="CreatedDate" />
+
+                    <!-- IsCompleted -->
+
+                    <input type="hidden"
+                           asp-for="IsCompleted" />
+
+                    <div asp-validation-summary="ModelOnly"
+                         class="alert alert-danger">
+                    </div>
+
+                    <!-- Title -->
+
+                    <div class="mb-3">
+
+                        <label asp-for="Title"
+                               class="form-label">
+                            Başlık
+                        </label>
+
+                        <input asp-for="Title"
+                               class="form-control" />
+
+                        <span asp-validation-for="Title"
+                              class="text-danger">
+                        </span>
+
+                    </div>
+
+                    <!-- Description -->
+
+                    <div class="mb-3">
+
+                        <label asp-for="Description"
+                               class="form-label">
+                            Açıklama
+                        </label>
+
+                        <textarea asp-for="Description"
+                                  class="form-control"
+                                  rows="5"></textarea>
+
+                        <span asp-validation-for="Description"
+                              class="text-danger">
+                        </span>
+
+                    </div>
+
+                    <!-- DueDate -->
+
+                    <div class="mb-3">
+
+                        <label asp-for="DueDate"
+                               class="form-label">
+                            Son Tarih
+                        </label>
+
+                        <input asp-for="DueDate"
+                               type="date"
+                               class="form-control" />
+
+                        <span asp-validation-for="DueDate"
+                              class="text-danger">
+                        </span>
+
+                    </div>
+
+                    <!-- Status -->
+
+                    <div class="mb-3">
+
+                        <label class="form-label">
+                            Mevcut Durum
+                        </label>
+
+                        <div>
+
+                            @if (Model.IsCompleted)
+                            {
+                                <span class="badge bg-success">
+                                    Tamamlandı
+                                </span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-warning text-dark">
+                                    Bekliyor
+                                </span>
+                            }
+
+                        </div>
+
+                    </div>
+
+                    <hr />
+
+                    <div class="d-flex justify-content-between">
+
+                        <a asp-controller="Todo"
+                           asp-action="Index"
+                           class="btn btn-secondary">
+                            Vazgeç
+                        </a>
+
+                        <button type="submit"
+                                class="btn btn-primary">
+                            Değişiklikleri Kaydet
+                        </button>
+
+                    </div>
+
+                </form>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</div>
+
+@section Scripts {
+@{
+await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+}

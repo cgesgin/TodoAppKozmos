@@ -1,0 +1,17 @@
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\bin\Debug\net10.0\TodoAppKozmos.Repository.deps.json
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\bin\Debug\net10.0\TodoAppKozmos.Repository.runtimeconfig.json
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\bin\Debug\net10.0\TodoAppKozmos.Repository.dll
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\bin\Debug\net10.0\TodoAppKozmos.Repository.pdb
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\bin\Debug\net10.0\TodoAppKozmos.Core.dll
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\bin\Debug\net10.0\TodoAppKozmos.Core.pdb
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\obj\Debug\net10.0\TodoAppKozmos.Repository.csproj.AssemblyReference.cache
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\obj\Debug\net10.0\TodoAppKozmos.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\obj\Debug\net10.0\TodoAppKozmos.Repository.AssemblyInfoInputs.cache
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\obj\Debug\net10.0\TodoAppKozmos.Repository.AssemblyInfo.cs
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\obj\Debug\net10.0\TodoAppKozmos.Repository.csproj.CoreCompileInputs.cache
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\obj\Debug\net10.0\TodoAppK.B526A380.Up2Date
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\obj\Debug\net10.0\TodoAppKozmos.Repository.dll
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\obj\Debug\net10.0\refint\TodoAppKozmos.Repository.dll
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\obj\Debug\net10.0\TodoAppKozmos.Repository.pdb
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\obj\Debug\net10.0\TodoAppKozmos.Repository.genruntimeconfig.cache
+C:\Users\cgesgin\source\repos\TodoAppKozmos\TodoAppKozmos.Repository\obj\Debug\net10.0\ref\TodoAppKozmos.Repository.dll

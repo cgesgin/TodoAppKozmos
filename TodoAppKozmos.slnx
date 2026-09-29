@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TodoAppKozmos.Repository/TodoAppKozmos.Repository.csproj" />
+  <Project Path="TodoAppKozmos.Service/TodoAppKozmos.Service.csproj" />
+  <Project Path="TodoAppKozmos.UI/TodoAppKozmos.UI.csproj" />
+  <Project Path="TodoAppKozmos/TodoAppKozmos.Core.csproj" />
+</Solution>
